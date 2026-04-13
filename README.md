@@ -3,8 +3,8 @@
 
 ## Project Structure
 subscription-dashboard-task/
- ├── client   # Frontend (React)
- └── server   # Backend (Node.js + Express)
+ client   # Frontend (React)
+ server   # Backend (Node.js + Express)
 
 ## Tech Stack
 Frontend
